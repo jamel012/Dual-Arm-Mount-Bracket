@@ -40,8 +40,13 @@ This project consists of a 3D-modeled mechanical bracket designed to serve as a 
 
 ## 📸 Preview
 
+https://github.com/user-attachments/assets/3c4f1abf-a552-4650-a789-b2bcf94d95c6
 
+<img width="948" height="805" alt="Screenshot 1" src="https://github.com/user-attachments/assets/450ecaff-41e7-4890-89ff-d5d896fc21e4" />
 
+## link onshpae 
+
+https://cad.onshape.com/documents/db34276199f3fe63c87dde98/w/63ef6fbed9e232e4e8fb9beb/e/df3786ed5d22db928560d9f9?renderMode=0&uiState=6880db28544026797e011b33
 
 
 **Created by:** Jameel Rami Mahjub 
